@@ -1,0 +1,79 @@
+Python syllabus
+
+***Introduction to Python
+
+------>start with python
+------>Keywords and Identifiers
+------>Statement, Indentation and Comments
+------>Variables, Constants and Literals
+------>Data Types
+------>Type Conversion and Type Casting
+------>Input, Output and Import
+------>Operators
+------>Namespace and Scope
+
+***Python Flow Control
+
+------>if...else Statement
+------>for Loop
+------>while Loop
+------>break and continue
+------>pass statement
+
+***Python functions
+
+----->Python Functions
+----->Python Function Arguments
+----->Python Recursion
+----->Python Anonymous/Lambda Function
+----->Python Global, Local and Nonlocal variables
+----->Global Keyword
+----->Python Modules
+----->Python Package
+
+***Python Datatypes
+
+----->Python Numbers, Type Conversion and Mathematics
+----->Python List
+----->Python Tuple
+----->Python Strings
+----->Python Sets
+----->Python Dictionary
+
+
+***Python Files
+
+---->Python File I/O
+---->Python Directory and Files Management
+---->Python Errors and Built-in Exceptions
+---->Python Exception Handling Using try, except and finally statement
+---->Python Custom Exceptions
+
+***Python Object & Class
+
+--->Python Object Oriented Programming
+--->Python Objects and Classes
+--->Python Inheritance
+--->Python Multiple Inheritance
+---->Python Operator Overloading
+
+***Python Advanced Topics
+
+--->Python Iterators
+--->Python Generators
+--->Python Closures
+--->Python Decorators
+--->Python @property decorator
+--->Python RegEx
+
+***Python Date and time
+
+--->Python datetime
+--->Python strftime()
+--->Python strptime()
+---->current date and time in Python
+---->Python Get Current time
+---->Python timestamp to datetime and vice-versa
+---->Python time Module
+---->Python sleep()
+
